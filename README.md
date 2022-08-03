@@ -7,3 +7,6 @@ Click on the blue button below to open the notebook on Colab. Follow the instruc
 <a href="https://colab.research.google.com/github/MooersLab/colabcctbxsnips/blob/main/colabcctbxsnips.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This notebook can be viewed locally in the [*nteract.app*](https://nteract.io/) -- an easy to install desktop application for viewing and editing Jupyter notebook documents (*.ipynb)--, *Jupyter Notebook*, or *Jupyter Lab*, but utilization of the snippets requires use of Colab.
+
+Sample data files are located in the dataFiles folder.
+Copy this folder to Google Drive.
