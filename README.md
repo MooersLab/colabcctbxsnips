@@ -1,6 +1,7 @@
 # colabcctbxsnips
 
-[CCTBX](https://cci.lbl.gov/docs/cctbx/) code fragment library in the form of a Google Colab snippet notebook. This library is a small collection of the code fragment to aid doing routine and not so routine computational tasks in protein crystallography. Accessing the snippets requires using a new Colab notebook. 
+A code fragment library in the form of a Google Colab snippet notebook. 
+See this website for an excellent introduction to CCTBX [(Computational Crystallography Toolbox)](https://cci.lbl.gov/docs/cctbx/). The colabcctbxsnips library is a collection of the code fragment to aid doing routine and not so routine computational tasks in protein crystallography. Accessing the snippets requires using a new Colab notebook. 
 
 Click on the blue button below to open the notebook on Colab and follow the instructions at the top of the notebook on how to copy the notebook to Google Drive and then make it available to new Colab notebooks. This step has to be done only once. The snippets will be available on your next log-in although files and software installed on Colab with not be available on your next login to Colab.
 
@@ -26,12 +27,12 @@ It will parallel the taggedpymolsnips library.
 
 ## Reporting errors
 
-The CCTBX is under continuous development. 
+The CCTBX is under continuous development by a consortium of developers funded by the NIH. 
 Some of the functions get renamed or deleted.
-Post an issue for functions that do not work.
+Post an issue for functions that no longer work.
 
 ## Related slides
 
 - Colab snippet talk [ACA The Structural Science Society, 72nd Meeting, Portland, OR, 1 August 2022](https://github.com/MooersLab/ACA2022)
-- GhostText talk [Oklahoma Data Science Workshop, Oklahoma City, OK, 21 July 2022](https://github.com/MooersLab/DSW22ghosttext)
+- GhostText talk [Oklahoma Data Science Workshop, Oklahoma City, OK, 21 July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostText can be used to edit the code blocks in a computational notebook with a full-powered text editor. GhostText supports Sublime Text, VSC, Vim, Neovim, and Emacs.
 
