@@ -20,7 +20,9 @@ This library is for a menu-driven snippet extension.
 
 ## Future plans:
 
-I plan to make this library available for the Elyra snippet extension for Jupyter Lab shortly.
+I plan to make this library available for the Elyra snippet extension for Jupyter Lab shortly. 
+It will be called taggedcctbxsnips. 
+It will parallel the taggedpymolsnips library.
 
 ## Reporting errors
 
@@ -31,5 +33,5 @@ Post an issue for functions that do not work.
 ## Related slides
 
 - Colab snippet talk [ACA The Structural Science Society, 72nd Meeting, Portland, OR, 1 August 2022](https://github.com/MooersLab/ACA2022)
-- GhostText talk [Oklahoma Data Science Workshop, Oklahoma City, OK, 21 July 2022]()
+- GhostText talk [Oklahoma Data Science Workshop, Oklahoma City, OK, 21 July 2022](https://github.com/MooersLab/DSW22ghosttext)
 
