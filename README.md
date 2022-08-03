@@ -30,3 +30,6 @@ Post an issue for functions that do not work.
 
 ## Related slides
 
+- Colab snippet talk [ACA The Structural Science Society, 72nd Meeting, Portland, OR, 1 August 2022](https://github.com/MooersLab/ACA2022)
+- GhostText talk [Oklahoma Data Science Workshop, Oklahoma City, OK, 21 July 2022]()
+
