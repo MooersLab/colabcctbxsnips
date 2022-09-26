@@ -58,3 +58,16 @@ Post an issue for functions that no longer work.
 - Colab snippet talk [ACA The Structural Science Society, 72nd Meeting, Portland, OR, 1 August 2022](https://github.com/MooersLab/ACA2022)
 - GhostText talk [Oklahoma Data Science Workshop, Oklahoma City, OK, 21 July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostText can be used to edit the code blocks in a computational notebook with a full-powered text editor. GhostText supports Sublime Text, VSC, Vim, Neovim, and Emacs.
 
+
+## Related repos
+
+- [easypymol](https://github.com/MooersLab/EasyPyMOL/edit/master/README.md)
+- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts)
+- [orgpymolpysnips](https://github.com/MooersLab/orgpymolpysnips)
+- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips)
+- [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips)
+- [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips)
+- [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips)
+- [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips)
+- [PyMOLwallhangings](https://github.com/MooersLab/PyMOLwallhangings)
+
